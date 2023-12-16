@@ -1,0 +1,8 @@
+{
+    "name": "Faster_Ship_Landing_At_Company",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "Makes you land at the company by the time the doors open (there is an option in the config to make the ship faster all the time too)",
+    "dependencies": [
+    ]
+}
